@@ -8,3 +8,14 @@ flickerplate :https://github.com/chrishumboldt/flickerplate  屏幕动画
 scrollMagic :http://janpaepke.github.io/ScrollMagic/#info 鼠标放上去 图片变大
 remodal :http://vodkabears.github.io/remodal/#  弹窗
 coverflow: http://coverflowjs.github.io/coverflow/    coverflow 唱片图片轮播效果
+panorama_viewer :https://github.com/peachananr/panorama_viewer 图片全景
+floatlabels :http://clubdesign.github.io/floatlabels.js/ 输入框
+http://www.thepetedesign.com/
+
+http://markserbol.com/urlive/ https://github.com/markserbol/urlive 
+
+EasyTree :http://www.easyjstree.com/ 树形导航
+
+collapser :http://www.aakashweb.com/jquery-plugins/collapser/  显示更多
+
+chartjs :http://www.chartjs.org/ 图标控件
