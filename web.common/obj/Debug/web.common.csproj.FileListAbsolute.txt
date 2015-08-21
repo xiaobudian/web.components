@@ -1,0 +1,9 @@
+D:\Studio\XBD\web.components\web.common\obj\Debug\web.common.csprojResolveAssemblyReference.cache
+D:\Studio\XBD\web.components\web.common\bin\Debug\web.common.dll
+D:\Studio\XBD\web.components\web.common\bin\Debug\web.common.pdb
+D:\Studio\XBD\web.components\web.common\bin\Debug\Newtonsoft.Json.dll
+D:\Studio\XBD\web.components\web.common\bin\Debug\RestSharp.dll
+D:\Studio\XBD\web.components\web.common\bin\Debug\Newtonsoft.Json.xml
+D:\Studio\XBD\web.components\web.common\bin\Debug\RestSharp.xml
+D:\Studio\XBD\web.components\web.common\obj\Debug\web.common.dll
+D:\Studio\XBD\web.components\web.common\obj\Debug\web.common.pdb

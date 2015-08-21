@@ -1,0 +1,10 @@
+D:\Studio\XBD\web.components\web.auth\bin\Debug\web.auth.dll.config
+D:\Studio\XBD\web.components\web.auth\bin\Debug\web.auth.dll
+D:\Studio\XBD\web.components\web.auth\bin\Debug\web.auth.pdb
+D:\Studio\XBD\web.components\web.auth\bin\Debug\EntityFramework.dll
+D:\Studio\XBD\web.components\web.auth\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\XBD\web.components\web.auth\bin\Debug\EntityFramework.xml
+D:\Studio\XBD\web.components\web.auth\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\XBD\web.components\web.auth\obj\Debug\web.auth.csprojResolveAssemblyReference.cache
+D:\Studio\XBD\web.components\web.auth\obj\Debug\web.auth.dll
+D:\Studio\XBD\web.components\web.auth\obj\Debug\web.auth.pdb

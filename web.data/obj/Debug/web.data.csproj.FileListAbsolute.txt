@@ -1,0 +1,10 @@
+D:\Studio\XBD\web.components\web.data\bin\Debug\web.data.dll.config
+D:\Studio\XBD\web.components\web.data\bin\Debug\web.data.dll
+D:\Studio\XBD\web.components\web.data\bin\Debug\web.data.pdb
+D:\Studio\XBD\web.components\web.data\bin\Debug\EntityFramework.dll
+D:\Studio\XBD\web.components\web.data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studio\XBD\web.components\web.data\bin\Debug\EntityFramework.xml
+D:\Studio\XBD\web.components\web.data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studio\XBD\web.components\web.data\obj\Debug\web.data.csprojResolveAssemblyReference.cache
+D:\Studio\XBD\web.components\web.data\obj\Debug\web.data.dll
+D:\Studio\XBD\web.components\web.data\obj\Debug\web.data.pdb
